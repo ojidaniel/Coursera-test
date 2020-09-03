@@ -131,10 +131,6 @@ p {
     height: 350px;
 }
 
-.large.main {
-    height: 350px;
-}
-
 .btt {
     color: #fff !important;
     font-weight: 600;
@@ -173,8 +169,4 @@ p {
         line-height: 20px;
         padding-left: 0px !important;
     }
-    
-    .large.main {
-    height: 700px;
-}
 }
