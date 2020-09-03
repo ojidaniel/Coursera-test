@@ -76,6 +76,10 @@ body .container {
     padding: 7.5px 25px;
 }
 
+.sub-heading {
+    font-size: 33px;
+}
+
 .chicken {
     position: relative;
 }
