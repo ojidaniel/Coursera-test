@@ -131,6 +131,10 @@ p {
     height: 350px;
 }
 
+.large.main {
+    height: 350px;
+}
+
 .btt {
     color: #fff !important;
     font-weight: 600;
