@@ -76,10 +76,6 @@ body .container {
     padding: 7.5px 25px;
 }
 
-.sub-heading {
-    font-size: 33px;
-}
-
 .chicken {
     position: relative;
 }
@@ -177,4 +173,8 @@ p {
         line-height: 20px;
         padding-left: 0px !important;
     }
+    
+    .large.main {
+    height: 700px;
+}
 }
