@@ -131,6 +131,10 @@ p {
     height: 350px;
 }
 
+.large.main {
+    height: 350px;
+}
+
 .btt {
     color: #fff !important;
     font-weight: 600;
@@ -168,5 +172,17 @@ p {
         font-size: 18px;
         line-height: 20px;
         padding-left: 0px !important;
+    }
+    
+    .large.medium {
+        height: 700px;
+    }
+    
+    .large.mini{
+        height: 250px;
+    }
+    
+    .large.main {
+        height: 700px;
     }
 }
