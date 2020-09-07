@@ -3460,8 +3460,8 @@ input.num-product::-webkit-inner-spin-button {
     /*---------------------------------------------*/
     
     .respon5 {
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 0px;
+        padding-bottom: 75px;
     }
 }
 
