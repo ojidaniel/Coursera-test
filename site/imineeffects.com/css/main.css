@@ -2290,7 +2290,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .stext-102 {
     font-family: Poppins-Regular;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.7;
 }
 
@@ -3844,7 +3844,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .modal {
-        padding-top: 50px !important;
+        padding-top: 40px !important;
         padding-right: 15px !important;
         padding-left: 15px !important;
     }
@@ -3875,7 +3875,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .item-pic {
-        padding-bottom: 15px;
+        padding-bottom: 5px;
     }
     
     .wrap-pic-wx img {
