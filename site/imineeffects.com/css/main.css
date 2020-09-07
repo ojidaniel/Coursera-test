@@ -3596,7 +3596,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .stext-104 {
         font-family: Poppins-Regular;
-        font-size: 14px;
+        font-size: 13px;
         line-height: 1.466667;
     }
     
@@ -3604,7 +3604,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .stext-105 {
         font-family: Poppins-Regular;
-        font-size: 13px;
+        font-size: 11px;
         line-height: 1.466667;
     }
     
@@ -3844,7 +3844,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .modal {
-        padding-top: 60px !important;
+        padding-top: 50px !important;
         padding-right: 15px !important;
         padding-left: 15px !important;
     }
@@ -4012,7 +4012,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .categories{
     margin-left: 0px;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
 }
 
 .category {
@@ -4240,8 +4240,8 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .ltext-103 {
-        font-size: 26px;
-        margin-bottom: 10px;
+        font-size: 24px;
+        margin-bottom: 7px;
     }
     
     .home-category-3 {
