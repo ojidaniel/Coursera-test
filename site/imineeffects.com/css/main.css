@@ -4215,6 +4215,14 @@ input.num-product::-webkit-inner-spin-button {
 		font-size: 24px;
 		margin-right: 0;
 	}
+    
+    .modal-dialog {
+        position: relative;
+        width: auto;
+        max-width: 1000px;
+        margin: 30px auto;
+        top: 70px;
+    }
 }
 
 /* Large Mobile :480px. */
