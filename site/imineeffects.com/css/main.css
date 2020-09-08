@@ -3859,7 +3859,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .modal-body {
-    padding: 15px 0px !important;
+    padding: 25px 0px !important;
     }   
     
     .modal-description {
@@ -3867,7 +3867,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .item-pic {
-        padding-bottom: 5px;
+        padding-bottom: 7px;
     }
     
     .wrap-pic-wx img {
@@ -3921,6 +3921,7 @@ input.num-product::-webkit-inner-spin-button {
     
     
 
+/*
 .item-container {
     margin-right: auto;
     margin-left: auto;
@@ -3928,6 +3929,7 @@ input.num-product::-webkit-inner-spin-button {
     padding-left: 15px;
     width: 100%;
 }
+*/
     
 }
 /******* END OF PHONE VIEW *******/
