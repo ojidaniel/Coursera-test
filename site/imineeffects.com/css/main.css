@@ -2302,13 +2302,13 @@ input.num-product::-webkit-inner-spin-button {
     font-family: Poppins-Regular;
     font-size: 12px;
     line-height: 1.466667;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 }
 
 .stext-105-2 {
     font-family: Poppins-Regular;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 1px;
 }
 
