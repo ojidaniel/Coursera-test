@@ -2566,8 +2566,8 @@ input.num-product::-webkit-inner-spin-button {
 /*//////////////////////////////////////////////////////////////////
 [ Size ]*/
 .size-101 {
-    min-width: 161px;
-    height: 46px;
+    min-width: 120px;
+    height: 40px;
 }
 
 .size-102 {
@@ -3820,7 +3820,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .slider-texts {
-        padding: 4px 0 12px 0 !important;
+        padding: 4px 0 10px 0 !important;
     }
     
     .naira {
@@ -3918,7 +3918,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .item-download {
         font-size: 17px !important;
-        color: #666 !important;
+        color: #999 !important;
     }
     
     .ltext-108 {
@@ -4656,4 +4656,10 @@ input.num-product::-webkit-inner-spin-button {
 
 .map {
     height: 500px;
+}
+
+.footer-number {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 12px;
 }
