@@ -205,14 +205,6 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     width: 100%;
 }
 
-.item-container {
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 100%;
-}
-
 .modal-container {
     margin-right: auto;
     margin-left: auto;
@@ -2290,7 +2282,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .stext-102 {
     font-family: Poppins-Regular;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 1.7;
 }
 
@@ -3090,7 +3082,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .how-pos3 {
     position: absolute;
-    top: -35px;
+    top: -30px;
     right: 0px;
 }
 
@@ -3844,7 +3836,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .modal {
-        padding-top: 40px !important;
+        padding-top: 45px !important;
         padding-right: 15px !important;
         padding-left: 15px !important;
     }
@@ -3867,7 +3859,7 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .modal-body {
-    padding: 22px 0px !important;
+    padding: 15px 0px !important;
     }   
     
     .modal-description {
@@ -3926,6 +3918,17 @@ input.num-product::-webkit-inner-spin-button {
         font-size: 20px;
         line-height: 1.3846;
     }
+    
+    
+
+.item-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+    
 }
 /******* END OF PHONE VIEW *******/
 
