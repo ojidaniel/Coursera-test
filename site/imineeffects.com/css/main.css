@@ -2269,9 +2269,9 @@ input.num-product::-webkit-inner-spin-button {
 .cl1 {color: #717fe0;}
 .cl2 {color: #333;}
 .cl3 {color: #666;}
-.cl4 {color: #666;}
+.cl4 {color: #999;}
 .cl5 {color: #222;}
-.cl6 {color: #666;}
+.cl6 {color: #888888bf;}
 .cl7 {color: #b2b2b2;}
 .cl8 {color: #555;}
 .cl9 {color: #aaa;}
@@ -3606,7 +3606,6 @@ input.num-product::-webkit-inner-spin-button {
         font-family: Poppins-Regular;
         font-size: 12px;
         line-height: 1.466667;
-        font-weight: 600;
     }
     
     .stext-105-2 {
