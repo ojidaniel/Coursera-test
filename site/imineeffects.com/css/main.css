@@ -4663,3 +4663,7 @@ input.num-product::-webkit-inner-spin-button {
     letter-spacing: 1px;
     font-size: 12px;
 }
+
+.main-menu-m > li > a.listx {
+    padding: 8px 350px 8px 20px;
+}
