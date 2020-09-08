@@ -3610,7 +3610,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .stext-105-2 {
         font-family: Poppins-Regular;
-        font-size: 18px;
+        font-size: 14px;
         font-weight: 600;
         line-height: 1.466667;
     }
@@ -4666,4 +4666,9 @@ input.num-product::-webkit-inner-spin-button {
 
 .main-menu-m > li > a.listx {
     padding: 8px 350px 8px 20px;
+}
+
+.strikeout {
+    padding-right: 10px;
+    color: rgba(153, 153, 153, 0.5);
 }
