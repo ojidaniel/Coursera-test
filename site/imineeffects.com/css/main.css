@@ -3980,7 +3980,7 @@ input.num-product::-webkit-inner-spin-button {
     /*background-color: rgba(0, 0, 0, 0.9);*/
     background-color: red;
     padding-top: 50px;
-    height: 100%;
+    width: auto !important;
 }
 
 .modal-body {
