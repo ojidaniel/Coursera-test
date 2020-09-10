@@ -3976,6 +3976,7 @@ input.num-product::-webkit-inner-spin-button {
     outline: 0;
     background-color: rgba(0, 0, 0, 0.9);
     padding-top: 50px;
+    height: 100%;
 }
 
 .modal-body {
