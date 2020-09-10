@@ -3977,8 +3977,8 @@ input.num-product::-webkit-inner-spin-button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /*background-color: rgba(0, 0, 0, 0.9);*/
-    background-color: red;
+    background-color: rgba(0, 0, 0, 0.9);
+/*    background-color: red;*/
     padding-top: 50px;
     width: auto !important;
 }
