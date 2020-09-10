@@ -3981,6 +3981,7 @@ input.num-product::-webkit-inner-spin-button {
 /*    background-color: red;*/
     padding-top: 50px;
     width: auto !important;
+    height: auto !important;
 }
 
 .modal-body {
