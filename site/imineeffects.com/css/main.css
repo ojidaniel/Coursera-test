@@ -3920,6 +3920,17 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     
+
+/*
+.item-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+*/
+    
 }
 /******* END OF PHONE VIEW *******/
 
