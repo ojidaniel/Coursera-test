@@ -3836,21 +3836,6 @@ input.num-product::-webkit-inner-spin-button {
     }
     
     .modal {
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        z-index: 9000;
-        display: none;
-        overflow: hidden;
-        outline: 0;
-        background-color: rgba(0, 0, 0, 0.9);
-        padding-top: 50px;
-        height: 100%;
-    }
-    
-    .modal {
         padding-top: 45px !important;
         padding-right: 15px !important;
         padding-left: 15px !important;
