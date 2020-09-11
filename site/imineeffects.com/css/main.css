@@ -3589,7 +3589,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .stext-105 {
         font-family: Poppins-Regular;
-        font-size: 12px;
+        font-size: 16px;
         line-height: 1.466667;
     }
     
@@ -3904,18 +3904,6 @@ input.num-product::-webkit-inner-spin-button {
         font-size: 20px;
         line-height: 1.3846;
     }
-    
-    
-
-/*
-.item-container {
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 100%;
-}
-*/
     
 }
 /******* END OF PHONE VIEW *******/
