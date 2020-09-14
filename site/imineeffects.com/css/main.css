@@ -2225,7 +2225,6 @@ input.num-product::-webkit-inner-spin-button {
     background-color: rgba(71, 193, 188, 0.75);
     top: 7px;
     left: 7px;
-    z-index: 3333;
 }
 
 .new-featured {
@@ -2251,7 +2250,6 @@ input.num-product::-webkit-inner-spin-button {
     background-color: rgba(71, 193, 188, 0.75);
     top: 7px;
     left: 47px;
-    z-index: 3333;
 }
 
 /*==================================================================
@@ -3760,7 +3758,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .stext-113 {
         font-family: Poppins-Light;
-        font-size: 14px;
+        font-size: 12.5px;
         line-height: 1.7857;
     }
     
