@@ -3086,7 +3086,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .how-pos3 {
     position: absolute;
-    top: -36x;
+    top: -36px;
     right: 0px;
 }
 
@@ -3925,7 +3925,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .mtext-105 {
         font-family: Poppins-Regular;
-        font-size: 20px;
+        font-size: 18px;
         letter-spacing: 0.5px;
         line-height: 1.5;
         font-weight: 600;
