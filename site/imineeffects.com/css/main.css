@@ -3923,6 +3923,15 @@ input.num-product::-webkit-inner-spin-button {
         line-height: 1.3846;
     }
     
+    .mtext-105 {
+        font-family: Poppins-Regular;
+        font-size: 20px;
+        letter-spacing: 0.5px;
+        line-height: 1.5;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+    
 }
 /******* END OF PHONE VIEW *******/
 
