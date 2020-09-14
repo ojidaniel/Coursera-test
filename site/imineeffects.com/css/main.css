@@ -2426,7 +2426,10 @@ input.num-product::-webkit-inner-spin-button {
 .mtext-105 {
     font-family: Poppins-Regular;
     font-size: 20px;
+    letter-spacing: 0.5px;
     line-height: 1.5;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .mtext-106 {
@@ -3083,7 +3086,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .how-pos3 {
     position: absolute;
-    top: -30px;
+    top: -36x;
     right: 0px;
 }
 
@@ -4605,9 +4608,10 @@ input.num-product::-webkit-inner-spin-button {
 
 .item-description {
     font-family: Poppins-Regular;
-    font-size: 18px;
-    line-height: 1.5;
-    margin-top: 15px
+    font-size: 15px;
+    line-height: 1.7;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .article {
