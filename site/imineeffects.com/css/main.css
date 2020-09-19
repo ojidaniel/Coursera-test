@@ -2258,7 +2258,7 @@ input.num-product::-webkit-inner-spin-button {
 .cl0 {color: #fff;}
 .cl1 {color: #717fe0;}
 .cl2 {color: #333;}
-.cl3 {color: #666;}
+.cl3 {color: #444;}
 .cl4 {color: #333;}
 .cl5 {color: #222;}
 .cl6 {color: #888888bf;}
@@ -4615,7 +4615,8 @@ input.num-product::-webkit-inner-spin-button {
 
 .item-description {
     font-family: Poppins-Regular;
-    font-size: 15px;
+    font-size: 17px;
+    letter-spacing: 0.33px;
     line-height: 1.7;
     font-weight: 600;
     text-transform: uppercase;
@@ -4683,4 +4684,10 @@ input.num-product::-webkit-inner-spin-button {
 .strikeout {
     padding-right: 10px;
     color: #999;
+}
+
+.j-t {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.5px;
 }
