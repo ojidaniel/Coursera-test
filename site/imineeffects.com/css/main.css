@@ -2278,6 +2278,13 @@ input.num-product::-webkit-inner-spin-button {
     text-transform: uppercase;
 }
 
+.stext-101-load-more {
+    font-family: Poppins-Medium;
+    font-size: 12px;
+    line-height: 1.466667;
+    text-transform: uppercase;
+}
+
 .stext-102 {
     font-family: Poppins-Regular;
     font-size: 13px;
@@ -2825,6 +2832,11 @@ input.num-product::-webkit-inner-spin-button {
 
 .bor1 {
     border-radius: 0px;
+}
+
+.bor1-load-more {
+    border-radius: 0px;
+    width: 240px;
 }
 
 .bor2 {
@@ -4694,4 +4706,9 @@ input.num-product::-webkit-inner-spin-button {
 
 .t-a-c {
     text-align: center;
+}
+
+.columnxyz {
+    width: 100%;
+    display: inline-block;
 }
