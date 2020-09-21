@@ -4691,3 +4691,7 @@ input.num-product::-webkit-inner-spin-button {
     font-weight: bold;
     letter-spacing: 0.5px;
 }
+
+.t-a-c {
+    text-align: center;
+}
