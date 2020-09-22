@@ -2468,7 +2468,19 @@ input.num-product::-webkit-inner-spin-button {
     line-height: 1.222222;
 }
 
+.mtext-111-head {
+    font-family: Poppins-Bold;
+    font-size: 32px;
+    line-height: 1.2;
+}
+
 .mtext-111 {
+    font-family: Poppins-Bold;
+    font-size: 21px;
+    line-height: 1.2;
+}
+
+.mtext-111-sub {
     font-family: Poppins-Bold;
     font-size: 21px;
     line-height: 1.2;
@@ -3902,7 +3914,7 @@ input.num-product::-webkit-inner-spin-button {
     
     .mtext-111 {
         font-family: Poppins-Bold;
-        font-size: 32px;
+        font-size: 21px;
         line-height: 1.2;
     }
     
